@@ -1,6 +1,6 @@
 # UoS Files Manager
 
-![image](https://github.com/Karlie-crypto/alx-files_manager/assets/110098940/1cb246f4-775f-4557-bff0-aa2d3d3f41c8)
+![image](https://github.com/user-attachments/assets/955cb814-4581-4c38-992f-2f7e853328e6)
 
 A **file manager** is an application that allows users to organize, store, and manage files, providing functionalities like uploading, downloading, deleting, and organizing files, often with a structured backend including controllers, routes, utilities, and testing to ensure smooth file handling.
 | PR.NO | PROJECT                                                                                                                                                 | DESCRIPTION |
