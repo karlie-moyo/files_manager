@@ -1,9 +1,6 @@
 # UoS Files Manager
 
-![image](https://github.com/user-attachments/assets/80eac66f-d41f-4535-a834-d782686e2fc3)
-
-
-
+![image](https://github.com/user-attachments/assets/98bc216a-774c-481b-b6b6-22d97f50012f)
 
 A **file manager** is an application that allows users to organize, store, and manage files, providing functionalities like uploading, downloading, deleting, and organizing files, often with a structured backend including controllers, routes, utilities, and testing to ensure smooth file handling.
 | PR.NO | PROJECT                                                                                                                                                 | DESCRIPTION |
