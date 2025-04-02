@@ -1,6 +1,7 @@
 # UoS Files Manager
 
-![image](https://github.com/user-attachments/assets/5d780e93-b1c9-4c15-b4b8-9a2d8e435f98)
+![image](https://github.com/user-attachments/assets/80eac66f-d41f-4535-a834-d782686e2fc3)
+
 
 
 
